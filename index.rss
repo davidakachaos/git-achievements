@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
-<title>Benjamin C Meyer's Git Achievements</title>
+<title>David Westerink's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Architect (Level 4)</title><description>Created a new repository with git init.</description></item>
-<item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Archivist (Level 4)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
-<item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 1057 times with git add -p.</description></item>
-<item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 1028 times with git add -p.</description></item>
-<item><title>Master Stone Mason (Level 10)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Master Collector (Level 7)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Investigator (Level 5)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
-<item><title>Master Goldsmith (Level 9)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Master Butcher (Level 7)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Master Seamstress (Level 7)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Apprentice Fisherman (Level 2)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
-<item><title>Master Historian (Level 9)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Blacksmith (Level 4)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Master Presenter (Level 9)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
-<item><title>Master Goldsmith (Level 8)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 595 times with git add -p.</description></item>
+<item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 </channel></rss>
