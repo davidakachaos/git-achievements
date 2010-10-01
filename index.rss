@@ -2,6 +2,7 @@
 <title>David Westerink's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
