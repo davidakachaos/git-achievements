@@ -2,6 +2,7 @@
 <title>David Westerink's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 <item><title>Baptised</title><description>Set global user name using git config.</description></item>
 <item><title>Apprentice Seamstress (Level 2)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Cleaning lady (Level 2)</title><description>Remove untracked files from the working tree with git clean</description></item>
-<item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
 </channel></rss>
