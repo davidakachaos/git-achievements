@@ -180,7 +180,7 @@ function check_for_achievements
             count_unlock_achievement "Hunter" "Used git bisect to perform a binary search to find which change introduced a bug." "$1"
             ;;
         blame )
-            count_unlock_achievement "Investigator" "Used git blame to annotates a file with information about how each line changed." "$1"
+            count_unlock_achievement "Investigator" "Used git blame to annotate a file with information about how each line changed." "$1"
             ;;
         bundle )
             count_unlock_achievement "Delivery Boy" "Move objects and refs by archive with git bundle." "$1"
@@ -311,6 +311,16 @@ function check_for_achievements
         stash )
             count_unlock_achievement "Product Manager" "Stash the changes in a dirty working directory away with git stash." "$1"
             ;;
+        submodule )
+            case $2 in
+                add )
+                count_unlock_achievement "Cathedral Architect" "Added a submodule to a repository." "submodule add"
+                ;;
+                update )
+                count_unlock_achievement "Cathedral Worker" "Cloned submodule repository and checked out commits specified by superproject." "submodule update"
+                ;;
+            esac
+            ;;
         svn|p4 )
             count_unlock_achievement "Traveler" "Streamed changes between another rcs with git svn or git p4." "$1"
             ;;
@@ -355,11 +365,12 @@ function publish_achievements
     user=`git config --global user.name`
 
 echo "
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"/>
 <title>${user}'s Git Achievements</title>
-<link rel=\"alternate\" type=\"application/rss+xml\" title\"rss feed\" href=\"index.rss\"/>
+<link rel=\"alternate\" type=\"application/rss+xml\" title=\"rss feed\" href=\"index.rss\"/>
 <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/>
 </head>
 <body>
