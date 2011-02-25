@@ -2,6 +2,7 @@
 <title>David Westerink's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Investigator (Level 2)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Cleaning lady (Level 4)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Apprentice Cathedral Worker (Level 2)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
 <item><title>Apprentice News Reader (Level 1)</title><description>Show logs with difference each commit introduces with git whatchanged</description></item>
@@ -21,5 +22,4 @@
 <item><title>Architect (Level 4)</title><description>Created a new repository with git init.</description></item>
 <item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 <item><title>Baptised</title><description>Set global user name using git config.</description></item>
-<item><title>Apprentice Seamstress (Level 2)</title><description>amended a commit with git commit --amend.</description></item>
 </channel></rss>
