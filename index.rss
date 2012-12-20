@@ -2,24 +2,8 @@
 <title>David Westerink's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Collector (Level 4)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Apprentice Carpenter (Level 2)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
-<item><title>Apprentice Carpenter (Level 1)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
-<item><title>Master Carpenter (Level 14)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
-<item><title>Blacksmith (Level 5)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Master Chimney Sweeper (Level 7)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Master Carpenter (Level       14)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
-<item><title>Cleaning lady (Level 6)</title><description>Remove untracked files from the working tree with git clean</description></item>
-<item><title>Seamstress (Level 4)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Apprentice Butcher (Level 1)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Chimney Sweeper (Level 6)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Master Banker (Level 8)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Chimney Sweeper (Level 5)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Chimney Sweeper (Level 4)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Apprentice Collector (Level 3)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Master Product Manager (Level 8)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
+<item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Apprentice Stone Mason (Level 1)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 </channel></rss>
