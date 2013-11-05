@@ -2,6 +2,7 @@
 <title>David Westerink's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
