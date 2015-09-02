@@ -2,6 +2,7 @@
 <title>'s Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Historian (Level 4)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Carpenter (Level 2)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
-<item><title>Apprentice Architect (Level 1)</title><description>Created a new repository with git init.</description></item>
 </channel></rss>
