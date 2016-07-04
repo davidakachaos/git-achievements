@@ -2,6 +2,7 @@
 <title>David Westerink's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 <item><title>Baptised</title><description>Set global user name using git config.</description></item>
 <item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
@@ -21,5 +22,4 @@
 <item><title>Blacksmith (Level 5)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Master Thug (Level -inf)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Apprentice Pedantic (Level 2)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
 </channel></rss>
