@@ -11,6 +11,10 @@ body {
     width: 700px;
     text-align: center;
 }
+img {
+    float : right;
+    height : 50px;
+}
 li {
     background-color: #1E2024;
     border: 1px solid gray;
