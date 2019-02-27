@@ -2,24 +2,5 @@
 <title>David Westerink's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Master Stone Mason (Level 11)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Chimney Sweeper (Level 4)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Master Historian (Level 7)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Master Carpenter (Level 9)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
-<item><title>Master Collector (Level 7)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
-<item><title>Homeowner</title><description>Set global email address using git config.</description></item>
-<item><title>Baptised</title><description>Set global user name using git config.</description></item>
-<item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
-<item><title>Blacksmith (Level 6)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Master Socialite (Level 10)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Chimney Sweeper (Level 2)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Pedantic (Level 4)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 1060 times with git add -p.</description></item>
-<item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Master Stone Mason (Level 10)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Pedantic (Level 3)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Collector (Level 6)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
+<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 </channel></rss>
