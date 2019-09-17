@@ -2,6 +2,7 @@
 <title>David Westerink's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Cleaning lady (Level 3)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Master Author (Level 7)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Socialite (Level 6)</title><description>pushed a branch to a remote repository using git push</description></item>
@@ -21,5 +22,4 @@
 <item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Pedantic (Level 1)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
 <item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
-<item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
